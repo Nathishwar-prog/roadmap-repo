@@ -41,6 +41,24 @@
 - 🔗 [Visualgo](https://visualgo.net/) — Visual animations of data structures and algorithms.
 - 🔗 [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) — Quick reference for algorithm complexity.
 
+### DevOps & Cloud
+- 🔗 [Linux Journey](https://linuxjourney.com/) — Free interactive Linux learning path, from beginner to sysadmin.
+- 🔗 [Docker Official Get Started](https://docs.docker.com/get-started/) — Official Docker tutorial with hands-on labs.
+- 🔗 [GitHub Actions Docs](https://docs.github.com/en/actions) — Official GitHub Actions documentation and examples.
+- 🔗 [Terraform Learn](https://developer.hashicorp.com/terraform/tutorials) — Official HashiCorp Terraform tutorials (free).
+- 🔗 [AWS Free Tier](https://aws.amazon.com/free/) — Hands-on AWS experience with a free tier account.
+- 🔗 [Killercoda](https://killercoda.com/) — Free browser-based labs for Kubernetes, Linux, and DevOps.
+- 🔗 [Play with Docker](https://labs.play-with-docker.com/) — Free browser-based Docker sandbox requiring no installation.
+- 🔗 [TechWorld with Nana (YouTube)](https://www.youtube.com/@TechWorldwithNana) — Best free DevOps video content on YouTube.
+
+### Cybersecurity
+- 🔗 [TryHackMe](https://tryhackme.com/) — Beginner-friendly guided hacking rooms, free tier available.
+- 🔗 [HackTheBox](https://www.hackthebox.com/) — Realistic penetration testing labs for all skill levels.
+- 🔗 [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Free, world-class web security labs from the makers of Burp Suite.
+- 🔗 [PicoCTF](https://picoctf.org/) — CTF challenges designed by Carnegie Mellon for beginners.
+- 🔗 [Cybrary](https://www.cybrary.it/) — Free cybersecurity courses for all levels.
+- 🔗 [OWASP Top 10](https://owasp.org/www-project-top-ten/) — The definitive reference for web application security risks.
+
 ---
 
 ## 💰 Paid Platforms (Often Discounted or Free Trials)
@@ -75,6 +93,16 @@
 ### System Design
 - 🎥 [Gaurav Sen](https://www.youtube.com/@gkcs) — System design concepts
 - 🎥 [ByteByteGo](https://www.youtube.com/@ByteByteGo) — Visual system design explanations
+
+### DevOps & Cloud
+- 🎥 [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) — Docker, Kubernetes, CI/CD tutorials
+- 🎥 [NetworkChuck](https://www.youtube.com/@NetworkChuck) — Networking, Linux, cloud, and cybersecurity
+- 🎥 [Anton Putra](https://www.youtube.com/@AntonPutra) — Kubernetes and observability deep dives
+
+### Cybersecurity
+- 🎥 [John Hammond](https://www.youtube.com/@_JohnHammond) — CTF walkthroughs, malware analysis
+- 🎥 [David Bombal](https://www.youtube.com/@davidbombal) — Networking and cybersecurity courses
+- 🎥 [LiveOverflow](https://www.youtube.com/@LiveOverflow) — Binary exploitation and CTF hacking
 
 ---
 

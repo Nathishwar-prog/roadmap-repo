@@ -76,6 +76,44 @@
 
 ---
 
+## ☁️ DevOps & Cloud
+
+| Book | Author | Level | Notes |
+|---|---|---|---|
+| *The Phoenix Project* | Gene Kim | 🟢 Beginner | DevOps culture, written as a novel |
+| *The DevOps Handbook* | Gene Kim et al. | 🟡 Intermediate | Comprehensive DevOps practices |
+| *Site Reliability Engineering* | Google SRE Team | 🔴 Advanced | Free at sre.google; running production systems |
+| *Kubernetes in Action* | Marko Lukša | 🔴 Advanced | Deep and practical K8s guide |
+| *Terraform: Up & Running* | Yevgeniy Brikman | 🟡 Intermediate | Best Terraform book, code-first approach |
+| *Docker Deep Dive* | Nigel Poulton | 🟢 Beginner | Short, clear introduction to Docker |
+
+---
+
+## 🔐 Cybersecurity
+
+| Book | Author | Level | Notes |
+|---|---|---|---|
+| *The Web Application Hacker's Handbook* | Stuttard & Pinto | 🟡 Intermediate | Classic web security reference |
+| *Penetration Testing* | Georgia Weidman | 🟢 Beginner | Hands-on intro to ethical hacking |
+| *Hacking: The Art of Exploitation* | Jon Erickson | 🔴 Advanced | Low-level exploit development |
+| *The Hacker Playbook 3* | Peter Kim | 🟡 Intermediate | Practical red team scenarios |
+| *Blue Team Handbook* | Don Murdoch | 🟡 Intermediate | Incident response reference |
+| *Cybersecurity Essentials* | Charles Brooks | 🟢 Beginner | Broad intro to the cybersecurity field |
+
+---
+
+## 🟨 JavaScript & TypeScript
+
+| Book | Author | Level | Notes |
+|---|---|---|---|
+| *Eloquent JavaScript* | Marijn Haverbeke | 🟢 Beginner | Free online; covers fundamentals well |
+| *JavaScript: The Good Parts* | Douglas Crockford | 🟡 Intermediate | Essential insights into the language |
+| *You Don't Know JS* (series) | Kyle Simpson | 🟡 Intermediate | Free on GitHub; deep JS internals |
+| *Programming TypeScript* | Boris Cherny | 🟡 Intermediate | Best TypeScript book |
+| *Node.js Design Patterns* | Casciaro & Mammino | 🔴 Advanced | Advanced patterns for Node.js |
+
+---
+
 ## 💡 Career & Mindset
 
 | Book | Author | Notes |

@@ -26,9 +26,12 @@
 |---|---|---|
 | 🐍 [Python](roadmaps/python/README.md) | Beginner → Advanced | Data, scripting, automation, web |
 | 🌐 [Web Development](roadmaps/web-development/README.md) | Beginner → Advanced | HTML, CSS, JS, React, Node.js |
+| 🟨 [JavaScript & TypeScript](roadmaps/javascript/README.md) | Beginner → Advanced | Modern JS, TypeScript, React, Next.js |
 | 🤖 [AI / Machine Learning](roadmaps/ai-ml/README.md) | Beginner → Advanced | ML, Deep Learning, NLP, MLOps |
 | 🏗️ [System Design](roadmaps/system-design/README.md) | Intermediate → Advanced | Scalability, databases, architecture |
 | 🗄️ [SQL](roadmaps/sql/README.md) | Beginner → Advanced | Queries, schema design, optimisation |
+| ☁️ [DevOps & Cloud](roadmaps/devops/README.md) | Beginner → Advanced | Docker, CI/CD, Kubernetes, Terraform, AWS |
+| 🔐 [Cybersecurity](roadmaps/cybersecurity/README.md) | Beginner → Advanced | Networking, ethical hacking, web security, pentesting |
 
 ---
 
@@ -51,9 +54,12 @@ KnowGrow-Roadmaps/
 ├── 📂 roadmaps/
 │   ├── 🐍 python/
 │   ├── 🌐 web-development/
+│   ├── 🟨 javascript/
 │   ├── 🤖 ai-ml/
 │   ├── 🏗️ system-design/
-│   └── 🗄️ sql/
+│   ├── 🗄️ sql/
+│   ├── ☁️ devops/
+│   └── 🔐 cybersecurity/
 │
 ├── 📚 resources/
 │   ├── books.md
@@ -65,6 +71,7 @@ KnowGrow-Roadmaps/
 │
 ├── 🛠️ projects/
 │   ├── beginner-projects.md
+│   ├── intermediate-projects.md
 │   └── advanced-projects.md
 │
 ├── 🎨 assets/
@@ -90,7 +97,8 @@ Explore curated lists of the best learning materials:
 Practice what you learn with real-world projects:
 
 - 🟢 [Beginner Projects](projects/beginner-projects.md) — Start here!
-- 🔴 [Advanced Projects](projects/advanced-projects.md) — Level up!
+- 🟡 [Intermediate Projects](projects/intermediate-projects.md) — Level up!
+- 🔴 [Advanced Projects](projects/advanced-projects.md) — Portfolio-worthy!
 
 ---
 
@@ -106,10 +114,10 @@ We welcome contributions from everyone! 🙌
 
 ## 🔮 Coming Soon
 
-- [ ] 🦀 Rust Roadmap
-- [ ] ☁️ Cloud / DevOps Roadmap
-- [ ] 🔐 Cybersecurity Roadmap
 - [ ] 📱 Mobile Development (Flutter / React Native)
+- [ ] 🦀 Rust Roadmap
+- [ ] ☕ Java Roadmap
+- [ ] 🐹 Go (Golang) Roadmap
 
 ---
 
