@@ -53,6 +53,18 @@
 
 ---
 
+## 🗄️ SQL & Databases
+
+| Book | Author | Level | Notes |
+|---|---|---|---|
+| *Learning SQL* | Alan Beaulieu | 🟢 Beginner | Best beginner SQL book; clear and practical |
+| *SQL Cookbook* | Anthony Molinaro & Robert de Graaf | 🟡 Intermediate | Solutions to common SQL problems for all levels |
+| *SQL Performance Explained* | Markus Winand | 🔴 Advanced | Essential guide to indexing and query optimisation |
+| *Database Design for Mere Mortals* | Michael J. Hernandez | 🟢 Beginner | Accessible intro to relational database design |
+| *High Performance MySQL* | Baron Schwartz et al. | 🔴 Advanced | Deep dive into MySQL internals and tuning |
+
+---
+
 ## 🧠 Computer Science Fundamentals
 
 | Book | Author | Level | Notes |
