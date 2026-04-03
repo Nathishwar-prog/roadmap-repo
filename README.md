@@ -28,6 +28,7 @@
 | 🌐 [Web Development](roadmaps/web-development/README.md) | Beginner → Advanced | HTML, CSS, JS, React, Node.js |
 | 🤖 [AI / Machine Learning](roadmaps/ai-ml/README.md) | Beginner → Advanced | ML, Deep Learning, NLP, MLOps |
 | 🏗️ [System Design](roadmaps/system-design/README.md) | Intermediate → Advanced | Scalability, databases, architecture |
+| 🗄️ [SQL](roadmaps/sql/README.md) | Beginner → Advanced | Queries, schema design, optimisation |
 
 ---
 
@@ -51,7 +52,8 @@ KnowGrow-Roadmaps/
 │   ├── 🐍 python/
 │   ├── 🌐 web-development/
 │   ├── 🤖 ai-ml/
-│   └── 🏗️ system-design/
+│   ├── 🏗️ system-design/
+│   └── 🗄️ sql/
 │
 ├── 📚 resources/
 │   ├── books.md
@@ -108,7 +110,6 @@ We welcome contributions from everyone! 🙌
 - [ ] ☁️ Cloud / DevOps Roadmap
 - [ ] 🔐 Cybersecurity Roadmap
 - [ ] 📱 Mobile Development (Flutter / React Native)
-- [ ] 🗄️ Database Engineering Roadmap
 
 ---
 

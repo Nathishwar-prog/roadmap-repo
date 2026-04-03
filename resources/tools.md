@@ -44,9 +44,11 @@
 | **DBeaver** | Universal database GUI (SQL & NoSQL) | Free |
 | **TablePlus** | Clean, fast database client | Free tier |
 | **pgAdmin** | PostgreSQL administration | Free |
+| **MySQL Workbench** | MySQL design, admin, and query editor | Free |
 | **MongoDB Compass** | MongoDB GUI | Free |
 | **Redis Insight** | Redis GUI | Free |
 | **DB Diagram** | Visual database schema design | Free tier |
+| **DB Fiddle** | Online SQL sandbox (MySQL, PostgreSQL, SQLite) | Free |
 
 ---
 

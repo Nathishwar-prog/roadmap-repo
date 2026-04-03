@@ -30,6 +30,13 @@
 - 🔗 [Hugging Face Course](https://huggingface.co/learn/nlp-course/) — NLP and Transformers, free.
 - 🔗 [Kaggle Learn](https://www.kaggle.com/learn) — Short, practical ML and data science courses, free.
 
+### SQL & Databases
+- 🔗 [SQLZoo](https://sqlzoo.net/) — Interactive SQL exercises with instant feedback, perfect for beginners.
+- 🔗 [SQLBolt](https://sqlbolt.com/) — Step-by-step interactive lessons covering all core SQL concepts.
+- 🔗 [Mode SQL Tutorial](https://mode.com/sql-tutorial/) — Practical SQL for data analysis, free and browser-based.
+- 🔗 [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) — Harvard's free SQL course.
+- 🔗 [PostgreSQL Official Docs](https://www.postgresql.org/docs/) — The definitive reference for PostgreSQL.
+
 ### Algorithms & Data Structures
 - 🔗 [Visualgo](https://visualgo.net/) — Visual animations of data structures and algorithms.
 - 🔗 [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) — Quick reference for algorithm complexity.
@@ -77,6 +84,8 @@
 |---|---|---|
 | [LeetCode](https://leetcode.com/) | Algorithms, interviews | All levels |
 | [HackerRank](https://www.hackerrank.com/) | Algorithms, SQL, domains | Beginner–Intermediate |
+| [StrataScratch](https://www.stratascratch.com/) | SQL & data science interviews | Intermediate–Advanced |
+| [DataLemur](https://datalemur.com/) | SQL interview prep | Intermediate–Advanced |
 | [Codewars](https://www.codewars.com/) | Fun kata challenges | All levels |
 | [Exercism](https://exercism.org/) | Language-specific tracks with mentorship | All levels |
 | [Project Euler](https://projecteuler.net/) | Math + programming problems | Intermediate–Advanced |
