@@ -139,6 +139,55 @@
 | **Sentry** | Error tracking and monitoring | Free tier |
 | **Datadog** | Full-stack monitoring | Paid |
 | **ELK Stack** | Logging (Elasticsearch, Logstash, Kibana) | Free |
+| **New Relic** | Full-stack observability | Free tier |
+| **Jaeger** | Distributed tracing | Free |
+
+---
+
+## ☁️ Cloud & Infrastructure Tools
+
+| Tool | Description | Cost |
+|---|---|---|
+| **AWS CLI** | Command-line interface for Amazon Web Services | Free |
+| **Google Cloud SDK** | CLI tools for Google Cloud Platform | Free |
+| **Azure CLI** | Command-line tools for Microsoft Azure | Free |
+| **Terraform** | Infrastructure as Code (multi-cloud) | Free |
+| **Pulumi** | IaC with real programming languages | Free tier |
+| **Ansible** | Configuration management and automation | Free |
+| **Helm** | Package manager for Kubernetes | Free |
+| **k9s** | Terminal-based UI to manage Kubernetes clusters | Free |
+| **Lens** | Kubernetes IDE / GUI | Free tier |
+| **LocalStack** | Local AWS cloud emulator for testing | Free tier |
+
+---
+
+## 🔐 Security & Pentesting Tools
+
+| Tool | Description | Cost |
+|---|---|---|
+| **Kali Linux** | Security-focused Linux distro (VM) | Free |
+| **Burp Suite** | Web application security testing | Free Community Ed. |
+| **Nmap** | Network port scanner and recon | Free |
+| **Wireshark** | Network traffic analyzer | Free |
+| **Metasploit** | Penetration testing framework | Free (open-source) |
+| **Hashcat** | GPU-accelerated password cracker | Free |
+| **Hydra** | Network login brute-forcer | Free |
+| **OWASP ZAP** | Web security scanner | Free |
+| **Trivy** | Container and filesystem vulnerability scanner | Free |
+| **CyberChef** | Browser-based data encoding/decoding swiss-army knife | Free |
+
+---
+
+## 📱 Mobile Development Tools
+
+| Tool | Description | Cost |
+|---|---|---|
+| **Android Studio** | Official IDE for Android development | Free |
+| **Xcode** | Official IDE for iOS/macOS development (macOS only) | Free |
+| **Flutter** | Google's cross-platform UI framework | Free |
+| **React Native** | Cross-platform mobile apps with JavaScript | Free |
+| **Expo** | Toolchain for React Native development | Free tier |
+| **Fastlane** | Automate iOS/Android deployment | Free |
 
 ---
 
